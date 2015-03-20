@@ -1,0 +1,15 @@
+#board{
+  background-color:#ABCDEF;
+  position:relative;
+}
+.boardcell{
+  background-color:#123456;
+  width:50px;
+  height:50px;
+  position:absolute;
+}
+#ship{
+  height:50px;
+  width:50px;
+  position:absolute;
+}
